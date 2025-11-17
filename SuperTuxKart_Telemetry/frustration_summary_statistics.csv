@@ -1,0 +1,14 @@
+Metric,Value
+Mean Ground Score,26.19
+Median Ground Score,24.48
+Std Dev Ground,8.88
+Mean Velocity Score,20.33
+Median Velocity Score,18.95
+Std Dev Velocity,9.49
+Mean Combined Score,23.26
+Median Combined Score,24.25
+Std Dev Combined,5.80
+Min Combined,11.32
+Max Combined,37.52
+Mean Off-Ground Ratio (%),3.15
+Mean Rapid Change Ratio (%),2.94
